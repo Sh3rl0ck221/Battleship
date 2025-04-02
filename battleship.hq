@@ -1,0 +1,1 @@
+FORALL pi1  pi2 (G((pi1.x_guess != pi2.x_guess) | (pi1.y_guess != pi2.y_guess)) & G(pi1.hit <-> pi2.hit))
